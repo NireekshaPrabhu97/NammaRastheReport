@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma-Raste Reporter</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome Back</string>
+    <string name="register_title">Create Account</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_mobile">Mobile Number</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="toggle_to_register">Don\'t have an account? Register</string>
+    <string name="toggle_to_login">Already have an account? Login</string>
+
+    <!-- Camera -->
+    <string name="camera_title">Capture Issue</string>
+    <string name="btn_capture">Capture Photo</string>
+    <string name="btn_gallery">Open Gallery</string>
+    <string name="btn_history">History</string>
+    <string name="btn_tracker">Tracker</string>
+
+    <!-- Classification -->
+    <string name="classification_title">Classify Report</string>
+    <string name="label_issue_type">Issue Type</string>
+    <string name="label_severity">Severity</string>
+    <string name="btn_submit">Submit Report</string>
+    <string name="gps_from_photo">📍 From photo</string>
+    <string name="gps_estimated">📍 Estimated (device GPS)</string>
+    <string name="source_camera">Camera</string>
+    <string name="source_gallery">Gallery</string>
+
+    <!-- Issue Types -->
+    <string name="issue_pothole">Pothole</string>
+    <string name="issue_broken_streetlight">Broken Streetlight</string>
+    <string name="issue_damaged_road_sign">Damaged Road Sign</string>
+    <string name="issue_other">Other</string>
+
+    <!-- Severity -->
+    <string name="severity_low">Low</string>
+    <string name="severity_medium">Medium</string>
+    <string name="severity_high">High</string>
+
+    <!-- Success -->
+    <string name="success_title">Report Submitted!</string>
+    <string name="success_message">Your report has been submitted successfully!</string>
+    <string name="label_ticket_id">Ticket ID</string>
+    <string name="btn_copy_ticket">Copy Ticket ID</string>
+    <string name="btn_view_reports">View My Reports</string>
+    <string name="btn_submit_another">Submit Another Report</string>
+    <string name="ticket_copied">Ticket ID copied to clipboard</string>
+
+    <!-- History -->
+    <string name="history_title">My Reports</string>
+    <string name="hint_search">Search by Ticket ID</string>
+    <string name="empty_state_title">No Reports Yet</string>
+    <string name="empty_state_message">Submit your first road issue report to get started.</string>
+    <string name="btn_submit_first">Submit First Report</string>
+
+    <!-- Tracker -->
+    <string name="tracker_title">Track Report</string>
+    <string name="hint_ticket_id">Ticket ID (e.g. NR–20250624–00042)</string>
+    <string name="btn_track">Track</string>
+    <string name="label_status_timeline">Status Timeline</string>
+
+    <!-- Statuses -->
+    <string name="status_submitted">Submitted</string>
+    <string name="status_under_review">Under Review</string>
+    <string name="status_work_assigned">Work Assigned</string>
+    <string name="status_resolved">Resolved</string>
+
+    <!-- Permissions -->
+    <string name="permission_camera_required">Camera permission is required to capture photos</string>
+    <string name="permission_location_required">Location permission is required for GPS tagging</string>
+    <string name="permission_storage_required">Storage permission is required to access photos</string>
+    <string name="permission_all_required">Camera and location permissions are required</string>
+
+    <!-- Errors -->
+    <string name="error_general">Something went wrong. Please try again.</string>
+    <string name="error_camera_init">Failed to initialize camera. Please restart the app.</string>
+    <string name="error_photo_capture">Failed to capture photo</string>
+    <string name="error_photo_process">Failed to process photo. Please try again.</string>
+</resources>

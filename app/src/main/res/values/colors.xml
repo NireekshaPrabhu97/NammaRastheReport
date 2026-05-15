@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_light">#4CAF50</color>
+    <color name="primary_variant">#388E3C</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary -->
+    <color name="secondary">#0277BD</color>
+    <color name="secondary_dark">#01579B</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <!-- Background & Surface -->
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_background">#212121</color>
+    <color name="on_surface">#212121</color>
+
+    <!-- Text -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+
+    <!-- Error -->
+    <color name="error">#D32F2F</color>
+    <color name="error_background">#FFEBEE</color>
+    <color name="on_error">#FFFFFF</color>
+
+    <!-- Severity colors -->
+    <color name="severity_low">#4CAF50</color>
+    <color name="severity_medium">#FF9800</color>
+    <color name="severity_high">#F44336</color>
+
+    <!-- Status colors -->
+    <color name="status_submitted">#9E9E9E</color>
+    <color name="status_under_review">#2196F3</color>
+    <color name="status_work_assigned">#FF9800</color>
+    <color name="status_resolved">#4CAF50</color>
+
+    <!-- Timeline colors -->
+    <color name="status_completed">#4CAF50</color>
+    <color name="status_current">#2196F3</color>
+    <color name="status_pending">#BDBDBD</color>
+
+    <!-- Success -->
+    <color name="success">#4CAF50</color>
+
+    <!-- Badge -->
+    <color name="badge_background">#E8F5E9</color>
+
+    <!-- Misc -->
+    <color name="divider">#E0E0E0</color>
+    <color name="ripple">#1F000000</color>
+</resources>
